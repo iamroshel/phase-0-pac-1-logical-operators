@@ -252,3 +252,4 @@ programs.
 - [MDN](https://developer.mozilla.org/en-US/)
 - [Logical operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
 - [Review of conditionals, comparisons, and logical operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+Roshel
