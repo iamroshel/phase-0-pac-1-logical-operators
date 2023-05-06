@@ -1,4 +1,4 @@
-# Logical Operators
+# Logical Operators c
 
 ## Learning Goals
 
